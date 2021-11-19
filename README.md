@@ -1,3 +1,4 @@
+cambio
 This template uses `pandoc` (and a few additional python glue scripts) to
 facilitate the production of scientific articles using a standard markdown file.
 The objective is to ensure that standard markdown (with the important exception
